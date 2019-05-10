@@ -14,5 +14,8 @@
     "npm"
   ],
   "author": "XP3L and Guyson",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
 }
