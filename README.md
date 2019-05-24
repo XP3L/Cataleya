@@ -1,4 +1,4 @@
 # Cataleya
 A simple Discord bot
 
-![fdfdf](https://img.shields.io/badge/-Node.js-green.svg)
+![node.js](https://img.shields.io/badge/-node.js-green.svg) ![discord.js](https://img.shields.io/badge/-discord.js-blue.svg)
