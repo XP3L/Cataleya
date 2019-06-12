@@ -16,6 +16,7 @@
   "author": "XP3L and Guyson",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.4.2"
+    "discord.js": "^11.4.2",
+    "node-fetch": "^2.6.0"
   }
 }
