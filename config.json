@@ -1,7 +1,8 @@
 {
 	"prefix": "!",
-	"token": "YOUR-TOKEN-GOES-HERE",
+	"token": "NTc5NTY0Njg5NDgzMjM1MzM5.XOEBzA.1fIw0WSsM1j73cilwFDtCMPBGwQ",
 	"footer": "Cataleya project by XP3L & Guyson",
 	"icon": "https://i.imgur.com/giku2RZ.png",
-	"commandError": "Oops! I ran into a problem trying to run that command"
+	"commandError": "Oops! I ran into a problem trying to run that command",
+	"steamAPIKey":"YOUR-KEY-GOES-HERE"
 }
