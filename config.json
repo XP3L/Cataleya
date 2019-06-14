@@ -3,5 +3,6 @@
 	"token": "YOUR-TOKEN-GOES-HERE",
 	"footer": "Cataleya project by XP3L & Guyson",
 	"icon": "https://i.imgur.com/giku2RZ.png",
-	"commandError": "Oops! I ran into a problem trying to run that command"
+	"commandError": "Oops! I ran into a problem trying to run that command",
+	"steamAPIKey":"YOUR-KEY-GOES-HERE"
 }

@@ -43,8 +43,8 @@ const commandFiles = fs
 // set a new item in the Collection
 
 client.once("ready", ()=>{
-	matchmakingPool.sync();
-	console.log("It's Ready!");
+	//matchmakingPool.sync();
+	console.log("I'm ready to rumble!");
 });
 
 // with the key as the command name and the value as the exported module
